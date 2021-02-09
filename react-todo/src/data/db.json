@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "a0382bc0-7947-4536-9960-dc1fce2dd4b0",
+      "title": "React Todo 1",
+      "isCompleted": false
+    },
+    {
+      "id": "aed5bb3d-c045-4221-b3cd-66dd47b89b99",
+      "title": "React Todo 2",
+      "isCompleted": false
+    },
+    {
+      "id": "10941932-8f22-4a3c-8cf8-5348c242df89",
+      "title": "React Todo 3",
+      "isCompleted": true
+    }
+  ]
+}
