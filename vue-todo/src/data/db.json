@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "5ac800b4-8800-4557-ab23-14c43b37c93e",
+      "title": "Vue Todo 1",
+      "isCompleted": false
+    },
+    {
+      "id": "f39761f3-1eab-42db-b654-05bc30b6d93f",
+      "title": "Vue Todo 2",
+      "isCompleted": false
+    },
+    {
+      "id": "f8c9b2e3-ffdb-4070-a078-4bfdefb8301e",
+      "title": "Vue Todo 3",
+      "isCompleted": true
+    }
+  ]
+}

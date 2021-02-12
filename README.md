@@ -5,6 +5,7 @@ The goal of this project is to get familiar with the basics and subtle differenc
 ## Table of Contents
 
 - [React Todo](#react-todo)
+- [Vue Todo](#vue-todo)
 
 ## React Todo
 
@@ -37,4 +38,38 @@ $ npm run json:server
 Run the development server
 ```
 $ npm start
+```
+
+## Vue Todo
+
+### Dependencies
+
+- "vue-router": "^3.2.0"
+
+### DevDependencies
+
+- "node-sass": "^5.0.0",
+- "sass-loader": "^10.1.1",
+- "uuid": "^8.3.2",
+
+### Installation
+
+Install dependencies:
+```
+$ npm install
+```
+
+Make sure you have json-server installed globaly
+```
+$ npm install -g json-server
+```
+
+Run the json server via custom script
+```
+$ npm run json:server
+```
+
+Run the development server
+```
+$ npm run serve
 ```
