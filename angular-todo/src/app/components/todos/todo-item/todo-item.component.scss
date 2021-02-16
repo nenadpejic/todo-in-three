@@ -1,0 +1,9 @@
+li {
+  margin: 0.5rem 0;
+  span {
+    margin: 0 0.5rem;
+    &.is-completed {
+      text-decoration: line-through;
+    }
+  }
+}

@@ -1,0 +1,4 @@
+<main class="home">
+  <app-add-todo (addTodo)='addTodo($event)'></app-add-todo>
+  <app-todos [todos]='todos' (deleteTodo)='deleteTodo($event)'></app-todos>
+</main>

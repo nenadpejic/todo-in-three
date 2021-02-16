@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "52b81642-5066-4b55-a3ff-fbfb2d2d9aa1",
+      "title": "Angular Todo 1",
+      "isCompleted": false
+    },
+    {
+      "id": "15d22bf3-916d-41af-9086-984f12293ae2",
+      "title": "Angular Todo 2",
+      "isCompleted": false
+    },
+    {
+      "id": "114d7c9b-e613-428d-a717-2269afa92ed1",
+      "title": "Angular Todo 3",
+      "isCompleted": true
+    }
+  ]
+}
